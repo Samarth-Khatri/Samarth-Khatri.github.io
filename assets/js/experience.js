@@ -8,7 +8,7 @@ const exp = [
     title: "Product Engineer Intern",
     cardImage: "assets/images/experience-page/pep.jpeg",
     place: "Pepcoding",
-    time: "(Jan, 2022 - present)",
+    time: "(Jan, 2022 - Jul, 2022)",
     desp: "",
   },
   {
